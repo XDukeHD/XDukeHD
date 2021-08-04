@@ -9,9 +9,9 @@
 </ul>
 <a href="https://discord.gg/gCYQUHvxar"><img src="https://img.shields.io/discord/799477005627555890?color=7289da&logo=discord&logoColor=white" alt="Discord server" /></a> 
 <a href="#"><img src="https://img.shields.io/badge/donate-patreon-F96854.svg" alt="Patreon" /></a>  
-<a href="https://discord.com/users/816775306115285073"><img src="#e" alt="Minha Conta" /></a>
+<a href="https://discord.com/users/816775306115285073"><img src="https://img.shields.io/discord/799477005627555890?color=7289da&logo=discord&logoColor=white" alt="Minha Conta" /></a>
 
-![](https://discord.c99.nl/widget/theme-3/817160910871330836.png)
+![](https://discord.c99.nl/widget/theme-1/816775306115285073.png)
 
 <h3 align="left">:computer: <b>|</b> Conexões Atuais:</h3>
 <p align="left">
