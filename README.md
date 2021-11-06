@@ -2,8 +2,8 @@
 <br><h1 align="left">:zap: <b>|</b> XDukeHD:</h1>
 <h3 align="left">:gem: Programador e Designer :gem:</h3>
 <ul>
-    <li>Meu nome real é ######. :boy:</li>
-    <li>Nasci dia 23 de Março de 2004. :date:</li>
+    <li>Meu nome real é Tulio. :boy:</li>
+    <li>Nasci dia 23 de Março de 2006. :date:</li>
     <li>Sou Desenvolvedor de Bots para Discord. :robot:</li>
     <li>Tenho experiência em Photoshop. :star2:</li>
 </ul>
