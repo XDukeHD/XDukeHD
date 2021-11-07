@@ -3,7 +3,7 @@
 <h3 align="left">:gem: Programador e Designer :gem:</h3>
 <ul>
     <li>Meu nome real é Tulio. :boy:</li>
-    <li>Nasci dia 23 de Março de 2006. :date:</li>
+    <li>Nasci dia 23 de Março de 2007. :date:</li>
     <li>Sou Desenvolvedor de Bots para Discord. :robot:</li>
     <li>Tenho experiência em Photoshop. :star2:</li>
 </ul>
