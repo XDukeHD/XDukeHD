@@ -1,12 +1,14 @@
-<p align="center">
-<br><h1 align="left">:zap: <b>|</b> XDukeHD:</h1>
-<h3 align="left">:gem: Programador e Designer :gem:</h3>
-<ul>
-    <li>Meu nome real é Tulio. :boy:</li>
-    <li>Nasci dia 23 de Março de 2007. :date:</li>
-    <li>Sou Desenvolvedor de Bots para Discord. :robot:</li>
-    <li>Tenho experiência em Photoshop. :star2:</li>
-</ul>
+Olá, eu sou o Duke, um futuro desenvolvedor de front-end e back-end.
+
+### Desenvolvedor em: 
+
+- <img src="https://cdn.discordapp.com/attachments/884562553773117461/888905411888046110/5848152fcef1014c0b5e4967.png" width="15"> NodeJS
+- <img src="https://cdn.discordapp.com/attachments/884562553773117461/888908971769999400/html5-logo-8.png" width="15"> HTML5
+- <img src="https://cdn.discordapp.com/attachments/884562553773117461/888909786266103888/141-1415372_css3-icon-png.png" width="15"> CSS3
+
+### Projetos ativos: 
+
+
 <a href="https://discord.gg/gCYQUHvxar"><img src="https://img.shields.io/discord/799477005627555890?color=7289da&logo=discord&logoColor=white" alt="Discord server" /></a> 
 <a href="#"><img src="https://img.shields.io/badge/donate-patreon-F96854.svg" alt="Patreon" /></a>  
 <a href="https://discord.com/users/816775306115285073"><img src="https://img.shields.io/discord/799477005627555890?color=7289da&logo=discord&logoColor=white" alt="Minha Conta" /></a>
