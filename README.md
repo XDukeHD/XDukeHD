@@ -9,7 +9,7 @@
 
 ### Projetos ativos: 
 - [MoonBots™ List](https://github.com/MoonBotsList)
-- [Izzys™ Bot](https://github.com/izzysbot)
+- [Izzys™ Bot](https://github.com/Izzys-Bot)
 - [SanHosting](https://sanhosting.com.br)
 - [Meu Site Portifolio](https://dev.xdukehd.xyz)
 
