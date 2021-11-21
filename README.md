@@ -3,6 +3,7 @@
 ### Desenvolvedor em: 
 
 - <img src="https://cdn.discordapp.com/emojis/866197290635886622.png?size=96" width="15"> DiscordJS
+- <img src="https://cdn.discordapp.com/emojis/911882810879537162.png?size=96" width="15"> Aprendendo NodeJS
 - <img src="https://cdn.discordapp.com/attachments/884562553773117461/888908971769999400/html5-logo-8.png" width="15"> HTML5
 - <img src="https://cdn.discordapp.com/attachments/884562553773117461/888909786266103888/141-1415372_css3-icon-png.png" width="15"> CSS3
 
