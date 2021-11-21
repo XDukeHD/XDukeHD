@@ -1,4 +1,4 @@
-Olá, eu sou o Duke, um futuro desenvolvedor de front-end e back-end.
+#Olá, eu sou o Duke, um futuro desenvolvedor de front-end e back-end.
 
 ### Desenvolvedor em: 
 
@@ -23,7 +23,10 @@ Olá, eu sou o Duke, um futuro desenvolvedor de front-end e back-end.
 </p>
 </p>
 
+### Estatísticas:
 
-<h3 align="left">:gear: <b>|</b> Linguagens e Ferramentas:</h3>
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://ejs.co/" target="_blank"> <img src="https://alternativetoapp.com/wp-content/uploads/2020/05/ejs_142671.jpg" alt="EJS" width="40" height="40"/> </a> <a href="https://sass-lang.com/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-512/sass-226054.png" alt="sass" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-<a href="https://www.photoshop.com/en" target="_blank"> <img src="https://appmasters.io/static/firebase-logo-c24b6b9c0fcd84c7b258879880472660.png" alt="firebase" width="30"/> </a>  </p>
+<div>
+  <a href="https://github.com/XDukeHD">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=XDukeHD&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XDukeHD&layout=compact&langs_count=7&theme=tokyonight"/>
+  </a>
+</div>
