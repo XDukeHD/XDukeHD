@@ -8,6 +8,10 @@
 - <img src="https://cdn.discordapp.com/attachments/884562553773117461/888909786266103888/141-1415372_css3-icon-png.png" width="15"> CSS3
 
 ### Projetos ativos: 
+- [MoonBots™ List](https://github.com/MoonBotsList)
+- [Izzys™ Bot](https://github.com/izzysbot)
+- [SanHosting](https://sanhosting.com.br)
+- [Meu Site Portifolio](https://dev.xdukehd.xyz)
 
 
 <a href="https://discord.gg/gCYQUHvxar"><img src="https://img.shields.io/discord/799477005627555890?color=7289da&logo=discord&logoColor=white" alt="Discord server" /></a> 
