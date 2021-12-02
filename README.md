@@ -1,4 +1,4 @@
-# Olá, eu sou o Duke, um futuro desenvolvedor de front-end e back-end.
+# Olá, eu sou o Duke, um futuro desenvolvedor Full-Stack.
 
 ### Desenvolvedor em: 
 
