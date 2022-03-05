@@ -29,10 +29,7 @@
 
 [![Linkedin: SEU NOME](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
 [![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
-[![GitHub SEU NOME]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](LINK-DO-SEU-GITHUB)
-
-
-<a href="https://discord.gg/gCYQUHvxar"><img src="https://img.shields.io/discord/799477005627555890?color=7289da&logo=discord&logoColor=white" alt="Discord server" /></a> 
+[![GitHub SEU NOME]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/XDukeHD)
 <a href="https://discord.com/users/816775306115285073"><img src="https://img.shields.io/discord/799477005627555890?color=7289da&logo=discord&logoColor=white" alt="Minha Conta" /></a>
 
 ![](https://discord.c99.nl/widget/theme-1/816775306115285073.png)
@@ -44,7 +41,7 @@
 </p>
 </p>
 
-### Estatísticas:
+## ⭐ Informações sobre minha conta GitHub
 
 <div>
   <a href="https://github.com/XDukeHD">
