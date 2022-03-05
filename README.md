@@ -4,8 +4,8 @@
 <h3> :woman: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **Desenvolvimento Web Completo** no <a href="https://udemy.com">Udemy</a>.
-- 💼 &nbsp; Trabalhando como **CEO/Founder** na <a href="https://sanhosting.com.br">EMPRESA</a>
+- 🎓 &nbsp; Estudando **Desenvolvimento Web Completo** na <a href="https://udemy.com">Udemy</a>.
+- 💼 &nbsp; Trabalhando como **CEO/Founder** na <a href="https://sanhosting.com.br">SanHosting</a>
 - 🌱 &nbsp; Aprendendo mais sobre **Typescript e React**.
 
 ## 🚀 Minhas Skills
@@ -28,7 +28,7 @@
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
 [![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
-[![GitHub XDukeHD]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/XDukeHD)
+[![GitHub XDukeHD]( https://img.shields.io/github/followers/XDukeHD?label=follow&style=social)](https://github.com/XDukeHD)
 <a href="https://discord.com/users/816775306115285073"><img src="https://img.shields.io/discord/799477005627555890?color=7289da&logo=discord&logoColor=white" alt="Minha Conta" /></a>
 
 ![](https://discord.c99.nl/widget/theme-1/816775306115285073.png)
