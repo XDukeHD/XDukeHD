@@ -1,15 +1,15 @@
-## 💜 Olá, meu nome é <strong>Túlio!</strong>
+## 💜 Hello my name is <strong>Túlio!</strong>
 
 ![](https://komarev.com/ghpvc/?username=XDukeHD&color=006bed)
 
-<h3> :woman: &nbsp;Sobre mim </h3>
+<h3> :woman: &nbsp;About me </h3>
 
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **Desenvolvimento Web Completo** na <a href="https://udemy.com">Udemy</a>.
-- 💼 &nbsp; Trabalhando como **CEO/Founder** na <a href="https://sanhosting.com.br">SanHosting</a>
-- 🌱 &nbsp; Aprendendo mais sobre **Typescript e React**.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions.
+- 🎓 &nbsp; Studying **Full Web Development** at <a href="https://udemy.com">Udemy</a>.
+- 💼 &nbsp; Working as **CEO/Founder** at <a href="https://sanhosting.com.br">SanHosting</a>
+- 🌱 &nbsp;learning more about **Typescript e React**.
 
-## 🚀 Minhas Skills
+## 🚀 My Skills
 
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
