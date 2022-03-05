@@ -48,3 +48,5 @@
 🐦 [twitter][twitter] **|** 
 📺 [youtube][youtube] **|** 
 📷 [Card][https://card.xdukehd.xyz/] **|** 
+
+[![card](https://github-readme-stats.vercel.app/api/pin/?xdukehd=iuricode&repo=readme-template)](https://github.com/iuricode/)
