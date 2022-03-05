@@ -44,9 +44,9 @@
 
 #### Rede Sociais!
 
-🏡 [website][https://xdukehd.xyz/] **|** 
-🐦 [twitter][twitter] **|** 
-📺 [youtube][youtube] **|** 
-📷 [Card][https://card.xdukehd.xyz/] **|** 
+🏡 [website](https://xdukehd.xyz/) **|** 
+🐦 [twitter](twitter) **|** 
+📺 [youtube](youtube) **|** 
+📷 [Card](https://card.xdukehd.xyz/) **|** 
 
-[![card](https://github-readme-stats.vercel.app/api/pin/?xdukehd=iuricode&repo=readme-template)](https://github.com/iuricode/)
+[![card](https://github-readme-stats.vercel.app/api/pin/?xdukehd=iuricode&repo=windows-10-activator)](https://github.com/iuricode/)
