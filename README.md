@@ -1,3 +1,4 @@
+## 💜 Olá, meu nome é <strong>Túlio!</strong>
 
 ![](https://komarev.com/ghpvc/?username=XDukeHD&color=006bed)
 
