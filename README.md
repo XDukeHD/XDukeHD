@@ -26,7 +26,7 @@
 
 ---
 
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+<h3> :earth_americas: &nbsp;Where to find me: </h3> 
 
 [![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
 [![GitHub XDukeHD]( https://img.shields.io/github/followers/XDukeHD?label=follow&style=social)](https://github.com/XDukeHD)
@@ -34,7 +34,7 @@
 
 ![](https://discord.c99.nl/widget/theme-1/816775306115285073.png)
 
-## ⭐ Informações sobre minha conta GitHub
+## ⭐ Information about my GitHub account
 
 <div>
   <a href="https://github.com/XDukeHD">
@@ -42,7 +42,7 @@
   </a>
 </div>
 
-#### Rede Sociais!
+#### Social networks!
 
 🏡 [website](https://xdukehd.xyz/) **|** 
 🐦 [twitter](twitter) **|** 
