@@ -28,7 +28,7 @@
 
 <h3> :earth_americas: &nbsp;Where to find me: </h3> 
 
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
+[![Gmail Badge](https://img.shields.io/badge/-contato@xdukehd.xyz-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:contato@xdukehd.xyz)
 [![GitHub XDukeHD]( https://img.shields.io/github/followers/XDukeHD?label=follow&style=social)](https://github.com/XDukeHD)
 <a href="https://discord.com/users/816775306115285073"><img src="https://img.shields.io/discord/799477005627555890?color=7289da&logo=discord&logoColor=white" alt="Minha Conta" /></a>
 
