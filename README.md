@@ -5,7 +5,7 @@
 <h3> :woman: &nbsp;About me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🎓 &nbsp; Studying **Full Web Development** at <a href="https://udemy.com">Udemy</a>.
+- 🎓 &nbsp; Studying **Full Web Development** at <a href="https://www.rocketseat.com.br/">Rocketseat</a>.
 - 💼 &nbsp; Working as **CEO/Founder** at <a href="https://sanhosting.com.br">SanHosting</a>
 - 🌱 &nbsp;learning more about **Typescript e React**.
 
