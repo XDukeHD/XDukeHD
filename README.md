@@ -39,4 +39,4 @@
 🐦 [twitter](twitter) **|** 
 📷 [Card](https://card.xdukehd.xyz/) **|** 
 
-[![card](https://github-readme-stats.vercel.app/api/pin/?username=xdukehd&repo=windows-10-activator)](https://github.com/XDukeHD/windows-10-activator)
+[![card](https://github-readme-stats.vercel.app/api/pin/?username=xdukehd&repo=windows-10-activator)](https://github.com/Izzys-Bot/dsbackdoor)
