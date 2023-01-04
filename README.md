@@ -40,7 +40,7 @@
 
 #### Social networks!
 
-🏡 [website](https://xdukehd.xyz/) **|** 
+🏡 [website](https://card.xdukehd.xyz/) **|** 
 🐦 [twitter](twitter) **|** 
 📺 [youtube](youtube) **|** 
 📷 [Card](https://card.xdukehd.xyz/) **|** 
