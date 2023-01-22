@@ -21,7 +21,7 @@
 
 <h3> :earth_americas: &nbsp;Where to find me: </h3> 
 
-[![Gmail Badge](https://img.shields.io/badge/-contact.threecloud.net-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:contact.threecloud.net)
+[![Gmail Badge](https://img.shields.io/badge/-contact@xduke.tech-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contact@xduke.tech	)](mailto:contact@xduke.tech)
 
 ![](https://discord.c99.nl/widget/theme-1/816775306115285073.png)
 
@@ -35,8 +35,8 @@
 
 #### Social networks!
 
-🏡 [website](https://card.xdukehd.xyz/) **|** 
+🏡 [website](https://xduke.tech/) **|** 
 🐦 [twitter](twitter) **|** 
-📷 [Card](https://card.xdukehd.xyz/) **|** 
+📷 [Card](https://xduke.tech/) **|** 
 
 [![card](https://github-readme-stats.vercel.app/api/pin/?username=Izzys-Bot&repo=dsbackdoor)](https://github.com/Izzys-Bot/dsbackdoor)
