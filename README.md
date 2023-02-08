@@ -5,7 +5,7 @@
 <h3> :woman: &nbsp;About me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🎓 &nbsp; Studying **Full Web Development** at <a href="https://www.rocketseat.com.br/">Rocketseat</a>.
+- 🎓 &nbsp; Studying **Back-end Development** at <a href="https://www.rocketseat.com.br/">Rocketseat</a>.
 - 🌱 &nbsp;learning more about **Typescript e React**.
 
 ## 🚀 My Skills
