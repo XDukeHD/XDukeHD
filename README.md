@@ -7,6 +7,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying **Back-end Development** at <a href="https://www.rocketseat.com.br/">Rocketseat</a>.
 - 🌱 &nbsp;learning more about **Typescript e React**.
+- 💼 &nbsp; Working as Software Engineer and CEO at <a href="https://threecloud.net/">Three Cloud</a>
 
 ## 🚀 My Skills
 
