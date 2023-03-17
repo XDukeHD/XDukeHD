@@ -1,6 +1,7 @@
 ## 💜 Hello my name is <strong>Túlio!</strong>
 
 ![](https://komarev.com/ghpvc/?username=XDukeHD&color=006bed)
+[![wakatime](https://wakatime.com/badge/user/f7fc301e-e4ee-4d46-b45f-5ff61c255b35.svg)](https://wakatime.com/@f7fc301e-e4ee-4d46-b45f-5ff61c255b35)
 
 <h3> :woman: &nbsp;About me </h3>
 
