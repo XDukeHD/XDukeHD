@@ -19,7 +19,7 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
-<figure><embed src="https://wakatime.com/share/@XDuke/03064e91-6b57-4ae6-a2ad-7e03156674bf.svg"></embed></figure>
+<embed src="https://wakatime.com/share/@XDuke/03064e91-6b57-4ae6-a2ad-7e03156674bf.svg"></embed>
 ---
 
 <h3> :earth_americas: &nbsp;Where to find me: </h3> 
