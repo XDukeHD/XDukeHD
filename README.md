@@ -28,7 +28,6 @@
 ![](https://discord.c99.nl/widget/theme-1/816775306115285073.png)
 
 ## ⭐ Information about my GitHub account
-<div><img height="180em" src="https://wakatime.com/share/@XDuke/fe6209d7-f50c-4d9b-9b1d-1f2ac70ca5f0.svg"></img></div>
 <div>
   <a href="https://github.com/XDukeHD">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=XDukeHD&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XDukeHD&layout=compact&langs_count=7&theme=tokyonight"/>
