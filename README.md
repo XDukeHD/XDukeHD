@@ -9,7 +9,7 @@
   Greetings! My real name is Túlio but call me XDuke, and I am currently pursuing studies to become a FullStack developer. I am 15 years old and reside in São Paulo, Brazil.
 </p>
 
- - 🚀 &nbsp; Exploring new technologies and crafting innovative software solutions.
+ - 🌱 &nbsp; Exploring new technologies and crafting innovative software solutions.
  - 🦄 &nbsp; Eagerly delving deeper into **Go and Rust** to broaden my expertise.
  - 💼 &nbsp; Currently serving as a Software Engineer at <a href="https://github.com/izzysbot">Izzys</a>, contributing to secondary projects.
 
