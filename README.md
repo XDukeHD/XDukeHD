@@ -11,7 +11,7 @@
 
  - 🚀 &nbsp; Exploring new technologies and crafting innovative software solutions.
  - 🦄 &nbsp; Eagerly delving deeper into **Go and Rust** to broaden my expertise.
- - 💼 &nbsp; Currently serving as a Software Engineer at <a href="https://github.com/izzysbot">Izzys</a>, contributing to groundbreaking projects.
+ - 💼 &nbsp; Currently serving as a Software Engineer at <a href="https://github.com/izzysbot">Izzys</a>, contributing to secondary projects.
 
 <p align="left">
   💌 Where to find me: ⤵️
