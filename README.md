@@ -69,7 +69,7 @@
 ## ⭐ Here's some information about my GitHub account:
 <div>
   <a href="https://github.com/XDukeHD">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=XDukeHD&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XDukeHD&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="230em" src="https://github-readme-stats.vercel.app/api?username=xdukehd&theme=aura&show_icons=true"/> <img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XDukeHD&langs_count=20&theme=aura&layout=donut"/>
   </a>
 </div>
 
