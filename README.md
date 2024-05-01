@@ -6,7 +6,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Greetings! My real name is Túlio but call me XDuke, and I am currently pursuing studies to become a FullStack developer. I am 15 years old and reside in São Paulo, Brazil.
+  Greetings! My real name is Túlio but call me XDuke, and I am currently pursuing studies to become a FullStack developer. I am 17 years old and reside in São Paulo, Brazil.
 </p>
 
  - 🌱 &nbsp; Exploring new technologies and crafting innovative software solutions.
