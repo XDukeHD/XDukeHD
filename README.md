@@ -70,8 +70,8 @@
 <div>
   <a href="https://github.com/XDukeHD">
   <img height="230em" src="https://github-readme-stats.vercel.app/api?username=xdukehd&theme=aura&show_icons=true"/> <img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XDukeHD&langs_count=20&theme=aura&layout=donut"/>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=XDukeHD&theme=shades-of-purple" alt="GitHub Streak" /></a>
-  </a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-six-topaz.vercel.app?user=XDukeHD&theme=shades-of-purple&hide_border=true&short_numbers=true" alt="GitHub Streak" /></a> 
+ </a>
 </div>
 
 #### Social networks!
