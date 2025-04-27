@@ -6,12 +6,12 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Greetings! My real name is Túlio but call me XDuke, and I am currently pursuing studies to become a FullStack developer. I am 17 years old and reside in São Paulo, Brazil.
+  Hey! I’m Túlio, but everyone calls me XDuke. I’m 17, living in São Paulo, Brazil. Right now, I’m grinding my way into the tech world, aiming to become a FullStack developer. Always chasing new challenges and leveling up my skills every day.
 </p>
 
- - 🌱 &nbsp; Exploring new technologies and crafting innovative software solutions.
- - 🦄 &nbsp; Eagerly delving deeper into **Go and Rust** to broaden my expertise.
- - 💼 &nbsp; Currently serving as a Software Engineer at <a href="https://github.com/izzysbot">Izzys</a>, contributing to secondary projects.
+ - 🌱 &nbsp; Always messing with new tech and building cool stuff.
+ - 🦄 &nbsp; Currently studying **Business Admin** at **Senac São Paulo**, planning to start Systems Analysis & Dev next year.
+ - 💼 &nbsp; Working on personal projects like <a href="https://thugx.squareweb.app/">Thug X</a>
 
 <p align="left">
   💌 Where to find me: ⤵️
