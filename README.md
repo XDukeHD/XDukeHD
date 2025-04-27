@@ -20,10 +20,10 @@
 <p align="left">
   <a href="https://discord.com/users/816775306115285073" title="Discord">
   <img src="https://img.shields.io/badge/-Discord-333333?style=flat&labelColor=blue&logo=discord&logoColor=white&link=https://discord.com/users/816775306115285073" alt="Discord"/></a>
-  <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-333333?style=flat&logo=Linkedin&logoColor=blue&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
-  <a href="#" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-333333?style=flat&labelColor=DF0174&logo=instagram&logoColor=pink&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
+  <a href="https://www.linkedin.com/in/tulio-cadilhac/" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-333333?style=flat&abelColor=blue&logo=linkedin&logoColor=blue&link=https://www.linkedin.com/in/tulio-cadilhac/" alt="LinkedIn"/></a>
+  <a href="https://instagram.com/tulio_zanella" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-333333?style=flat&labelColor=DF0174&logo=instagram&logoColor=pink&linkhttps://instagram.com/tulio_zanella" alt="Instagram"/></a>
 </p>
 
 <br/>
