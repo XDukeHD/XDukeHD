@@ -70,6 +70,7 @@
 <div>
   <a href="https://github.com/XDukeHD">
   <img height="530em" src="https://wakatime.com/share/@XDuke/38dd03d0-43c3-4b4e-957b-907a701d8cf0.svg"/>  
+  <img height="130em" src="https://wakatime.com/share/@XDuke/09aaf791-3be1-4570-8b93-f0e0658afe6e.svg"/>  
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-six-topaz.vercel.app?user=XDukeHD&theme=shades-of-purple&hide_border=true&short_numbers=true" alt="GitHub Streak" /></a> 
  </a>
 </div>
